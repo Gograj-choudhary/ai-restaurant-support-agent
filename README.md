@@ -21,8 +21,8 @@ The system uses Telegram as the interface, n8n as the orchestration layer,
 and Google Sheets as a lightweight database.
 
 ## Demo
-- Telegram chat screenshots available in `/screenshots`
-- n8n workflow export available in `/workflows`
+- Telegram chat screenshots available in .png file
+- n8n workflow export available in .json file
 
 ## Security
 - No API keys committed
